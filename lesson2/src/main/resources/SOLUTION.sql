@@ -1,6 +1,6 @@
 INSERT INTO student (name, birthday, groupnumber) VALUES ('John', '1990-01-15', 1);
-INSERT INTO student (name, birthday, groupnumber) VALUES ('Сhris', '1990-02-15', 1);
-INSERT INTO student (name, birthday, groupnumber) VALUES ('Сarl', '1990-03-15', 1);
+INSERT INTO student (name, birthday, groupnumber) VALUES ('Chris', '1990-02-15', 1);
+INSERT INTO student (name, birthday, groupnumber) VALUES ('Carl', '1990-03-15', 1);
 
 INSERT INTO student (name, birthday, groupnumber) VALUES ('Oliver', '1990-07-15', 2);
 INSERT INTO student (name, birthday, groupnumber) VALUES ('James', '1990-04-15', 2);
